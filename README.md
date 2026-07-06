@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/2006piyush/DSA-Progress/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2006piyush/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/2006piyush/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,13 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2006piyush/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/2006piyush/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/2006piyush/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/2006piyush/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
