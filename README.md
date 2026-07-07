@@ -9,10 +9,12 @@
 | [0001-two-sum](https://github.com/2006piyush/DSA-Progress/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2006piyush/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/2006piyush/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/2006piyush/DSA-Progress/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2006piyush/DSA-Progress/tree/master/0001-two-sum) |
+| [0904-fruit-into-baskets](https://github.com/2006piyush/DSA-Progress/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +28,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/2006piyush/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/2006piyush/DSA-Progress/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
