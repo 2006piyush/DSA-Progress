@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2006piyush/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/2006piyush/DSA-Progress/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,5 +49,10 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/2006piyush/DSA-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/2006piyush/DSA-Progress/tree/master/0076-minimum-window-substring) |
+| [0392-is-subsequence](https://github.com/2006piyush/DSA-Progress/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/2006piyush/DSA-Progress/tree/master/0424-longest-repeating-character-replacement) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/2006piyush/DSA-Progress/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
