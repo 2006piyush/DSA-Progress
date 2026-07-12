@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2006piyush/DSA-Progress/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/2006piyush/DSA-Progress/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2006piyush/DSA-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/2006piyush/DSA-Progress/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2006piyush/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -29,6 +30,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/2006piyush/DSA-Progress/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2006piyush/DSA-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/2006piyush/DSA-Progress/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/2006piyush/DSA-Progress/tree/master/0141-linked-list-cycle) |
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/2006piyush/DSA-Progress/tree/master/0202-happy-number) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/2006piyush/DSA-Progress/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
