@@ -42,6 +42,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2006piyush/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/2006piyush/DSA-Progress/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/2006piyush/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/2006piyush/DSA-Progress/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/2006piyush/DSA-Progress/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/2006piyush/DSA-Progress/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -73,6 +74,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/2006piyush/DSA-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/2006piyush/DSA-Progress/tree/master/0076-minimum-window-substring) |
+| [0344-reverse-string](https://github.com/2006piyush/DSA-Progress/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/2006piyush/DSA-Progress/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/2006piyush/DSA-Progress/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
