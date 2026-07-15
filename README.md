@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/2006piyush/DSA-Progress/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/2006piyush/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/2006piyush/DSA-Progress/tree/master/0713-subarray-product-less-than-k) |
+| [0881-boats-to-save-people](https://github.com/2006piyush/DSA-Progress/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/2006piyush/DSA-Progress/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/2006piyush/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/2006piyush/DSA-Progress/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -50,6 +51,7 @@
 | [0344-reverse-string](https://github.com/2006piyush/DSA-Progress/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/2006piyush/DSA-Progress/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/2006piyush/DSA-Progress/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/2006piyush/DSA-Progress/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/2006piyush/DSA-Progress/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/2006piyush/DSA-Progress/tree/master/0015-3sum) |
+| [0881-boats-to-save-people](https://github.com/2006piyush/DSA-Progress/tree/master/0881-boats-to-save-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -119,4 +122,5 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/2006piyush/DSA-Progress/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/2006piyush/DSA-Progress/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
