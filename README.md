@@ -39,6 +39,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/2006piyush/DSA-Progress/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/2006piyush/DSA-Progress/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/2006piyush/DSA-Progress/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2006piyush/DSA-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/2006piyush/DSA-Progress/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/2006piyush/DSA-Progress/tree/master/0125-valid-palindrome) |
@@ -100,6 +101,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/2006piyush/DSA-Progress/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/2006piyush/DSA-Progress/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/2006piyush/DSA-Progress/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/2006piyush/DSA-Progress/tree/master/0143-reorder-list) |
