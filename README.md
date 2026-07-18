@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/2006piyush/DSA-Progress/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/2006piyush/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/2006piyush/DSA-Progress/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/2006piyush/DSA-Progress/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/2006piyush/DSA-Progress/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/2006piyush/DSA-Progress/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/2006piyush/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/2006piyush/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/2006piyush/DSA-Progress/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/2006piyush/DSA-Progress/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/2006piyush/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
