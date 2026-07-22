@@ -30,6 +30,7 @@
 | [0986-interval-list-intersections](https://github.com/2006piyush/DSA-Progress/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/2006piyush/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/2006piyush/DSA-Progress/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1480-running-sum-of-1d-array](https://github.com/2006piyush/DSA-Progress/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/2006piyush/DSA-Progress/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/2006piyush/DSA-Progress/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
@@ -98,6 +99,7 @@
 | [0724-find-pivot-index](https://github.com/2006piyush/DSA-Progress/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/2006piyush/DSA-Progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/2006piyush/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/2006piyush/DSA-Progress/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/2006piyush/DSA-Progress/tree/master/1991-find-the-middle-index-in-array) |
 ## String
 |  |
