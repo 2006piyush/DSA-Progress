@@ -20,6 +20,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/2006piyush/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/2006piyush/DSA-Progress/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/2006piyush/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/2006piyush/DSA-Progress/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/2006piyush/DSA-Progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/2006piyush/DSA-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/2006piyush/DSA-Progress/tree/master/0643-maximum-average-subarray-i) |
