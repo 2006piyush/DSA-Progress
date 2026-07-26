@@ -29,6 +29,7 @@
 | [0704-binary-search](https://github.com/2006piyush/DSA-Progress/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/2006piyush/DSA-Progress/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/2006piyush/DSA-Progress/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/2006piyush/DSA-Progress/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/2006piyush/DSA-Progress/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/2006piyush/DSA-Progress/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/2006piyush/DSA-Progress/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -179,6 +180,7 @@
 | [0143-reorder-list](https://github.com/2006piyush/DSA-Progress/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/2006piyush/DSA-Progress/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/2006piyush/DSA-Progress/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/2006piyush/DSA-Progress/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2006piyush/DSA-Progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -193,4 +195,5 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/2006piyush/DSA-Progress/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/2006piyush/DSA-Progress/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
