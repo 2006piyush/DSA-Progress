@@ -26,6 +26,7 @@
 | [0525-contiguous-array](https://github.com/2006piyush/DSA-Progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/2006piyush/DSA-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/2006piyush/DSA-Progress/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/2006piyush/DSA-Progress/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/2006piyush/DSA-Progress/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/2006piyush/DSA-Progress/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/2006piyush/DSA-Progress/tree/master/0881-boats-to-save-people) |
@@ -85,6 +86,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2006piyush/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/2006piyush/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/2006piyush/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/2006piyush/DSA-Progress/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/2006piyush/DSA-Progress/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/2006piyush/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
