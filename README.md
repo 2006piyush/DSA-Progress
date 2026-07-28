@@ -58,6 +58,7 @@
 | [0567-permutation-in-string](https://github.com/2006piyush/DSA-Progress/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/2006piyush/DSA-Progress/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/2006piyush/DSA-Progress/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/2006piyush/DSA-Progress/tree/master/1189-maximum-number-of-balloons) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/2006piyush/DSA-Progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/2006piyush/DSA-Progress/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2006piyush/DSA-Progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/2006piyush/DSA-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/2006piyush/DSA-Progress/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/2006piyush/DSA-Progress/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/2006piyush/DSA-Progress/tree/master/1768-merge-strings-alternately) |
@@ -211,4 +213,5 @@
 | ------- |
 | [0383-ransom-note](https://github.com/2006piyush/DSA-Progress/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/2006piyush/DSA-Progress/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/2006piyush/DSA-Progress/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
