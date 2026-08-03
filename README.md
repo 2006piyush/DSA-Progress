@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/2006piyush/DSA-Progress/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/2006piyush/DSA-Progress/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/2006piyush/DSA-Progress/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/2006piyush/DSA-Progress/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/2006piyush/DSA-Progress/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/2006piyush/DSA-Progress/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2006piyush/DSA-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/2006piyush/DSA-Progress/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/2006piyush/DSA-Progress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/2006piyush/DSA-Progress/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2006piyush/DSA-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2006piyush/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/2006piyush/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
@@ -230,4 +232,8 @@
 | [0383-ransom-note](https://github.com/2006piyush/DSA-Progress/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/2006piyush/DSA-Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/2006piyush/DSA-Progress/tree/master/1189-maximum-number-of-balloons) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/2006piyush/DSA-Progress/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
