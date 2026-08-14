@@ -44,6 +44,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/2006piyush/DSA-Progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/2006piyush/DSA-Progress/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/2006piyush/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/2006piyush/DSA-Progress/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/2006piyush/DSA-Progress/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1480-running-sum-of-1d-array](https://github.com/2006piyush/DSA-Progress/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/2006piyush/DSA-Progress/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -268,6 +269,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2006piyush/DSA-Progress/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/2006piyush/DSA-Progress/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/2006piyush/DSA-Progress/tree/master/0767-reorganize-string) |
+| [1046-last-stone-weight](https://github.com/2006piyush/DSA-Progress/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
