@@ -29,6 +29,7 @@
 | [0347-top-k-frequent-elements](https://github.com/2006piyush/DSA-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2006piyush/DSA-Progress/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/2006piyush/DSA-Progress/tree/master/0485-max-consecutive-ones) |
+| [0502-ipo](https://github.com/2006piyush/DSA-Progress/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/2006piyush/DSA-Progress/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/2006piyush/DSA-Progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/2006piyush/DSA-Progress/tree/master/0560-subarray-sum-equals-k) |
@@ -201,6 +202,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/2006piyush/DSA-Progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/2006piyush/DSA-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2006piyush/DSA-Progress/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/2006piyush/DSA-Progress/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/2006piyush/DSA-Progress/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/2006piyush/DSA-Progress/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/2006piyush/DSA-Progress/tree/master/0881-boats-to-save-people) |
@@ -215,6 +217,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/2006piyush/DSA-Progress/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/2006piyush/DSA-Progress/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/2006piyush/DSA-Progress/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/2006piyush/DSA-Progress/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/2006piyush/DSA-Progress/tree/master/0881-boats-to-save-people) |
 ## Stack
@@ -267,6 +270,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/2006piyush/DSA-Progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/2006piyush/DSA-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2006piyush/DSA-Progress/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/2006piyush/DSA-Progress/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/2006piyush/DSA-Progress/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/2006piyush/DSA-Progress/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/2006piyush/DSA-Progress/tree/master/1046-last-stone-weight) |
