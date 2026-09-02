@@ -9,26 +9,34 @@
  */
 
 class Solution {
-    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-         fun( root, p, q);
-          return ans;
-    }
+
     TreeNode ans = null;
 
-    int fun(TreeNode root, TreeNode p, TreeNode q){
-        if(root==null){
-            return 0;
+    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+        if (p.val < q.val) {
+            fun(root, p, q);
+        } else {
+            fun(root, q, p);
         }
-        int left = fun(root.left,p,q);
-        int right = fun(root.right,p,q);
-        int self = 0;
-        if(root==p || root==q){
-            self = 1;
+
+        return ans;
+    }
+
+    TreeNode fun(TreeNode root, TreeNode p, TreeNode q) {
+
+        if (root == null) {
+            return null;
         }
-        int total = left + right + self;
-        if(total==2 && ans==null){
-            ans = root;
+
+        if (root.val < p.val) {
+            return fun(root.right, p, q);
         }
-        return total;
+
+        else if (root.val > q.val) {
+            return fun(root.left, p, q);
+        }
+
+        ans = root;
+        return ans;
     }
 }
