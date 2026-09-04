@@ -1,56 +1,70 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
-
     public boolean findTarget(TreeNode root, int k) {
-        ArrayList<Integer> list = new ArrayList<>();
 
-        inorder(root, list);
+        Stack<TreeNode> leftStack = new Stack<>();
+        Stack<TreeNode> rightStack = new Stack<>();
 
-        int left = 0;
-        int right = list.size() - 1;
+        pushLeft(root, leftStack);
+        pushRight(root, rightStack);
 
-        while (left < right) {
+        TreeNode left = getNext(leftStack);
+        TreeNode right = getPrev(rightStack);
 
-            int sum = list.get(left) + list.get(right);
+        while (left != right) {
+
+            int sum = left.val + right.val;
 
             if (sum == k) {
                 return true;
             }
-            else if (sum < k) {
-                left++;
-            }
-            else {
-                right--;
+
+            if (sum < k) {
+                left = getNext(leftStack);
+            } else {
+                right = getPrev(rightStack);
             }
         }
 
         return false;
     }
 
-    public void inorder(TreeNode root, ArrayList<Integer> list) {
+    // Push path to smallest node
+    private void pushLeft(TreeNode root, Stack<TreeNode> stack) {
+        while (root != null) {
+            stack.push(root);
+            root = root.left;
+        }
+    }
 
-        if (root == null) {
-            return;
+    // Push path to largest node
+    private void pushRight(TreeNode root, Stack<TreeNode> stack) {
+        while (root != null) {
+            stack.push(root);
+            root = root.right;
+        }
+    }
+
+    // Get next smallest
+    private TreeNode getNext(Stack<TreeNode> stack) {
+
+        TreeNode node = stack.pop();
+
+        if (node.right != null) {
+            pushLeft(node.right, stack);
         }
 
-        inorder(root.left, list);
+        return node;
+    }
 
-        list.add(root.val);
+    // Get next largest
+    private TreeNode getPrev(Stack<TreeNode> stack) {
 
-        inorder(root.right, list);
+        TreeNode node = stack.pop();
+
+        if (node.left != null) {
+            pushRight(node.left, stack);
+        }
+
+        return node;
     }
 }
