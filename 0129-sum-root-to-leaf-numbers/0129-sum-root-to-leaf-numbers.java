@@ -14,20 +14,28 @@
  * }
  */
 class Solution {
+    int totalSum = 0;
+
     public int sumNumbers(TreeNode root) {
-        int no = 0;
-        totalSum = totalSum+fun(root,no);
+        fun(root, 0);
         return totalSum;
     }
-    int totalSum = 0;
-    int fun(TreeNode root, int no) {
-    if(root == null) {
-        return 0;
+
+    void fun(TreeNode root, int no) {
+
+        if (root == null) {
+            return;
+        }
+
+        no = no * 10 + root.val;
+
+        // We reached a leaf
+        if (root.left == null && root.right == null) {
+            totalSum = totalSum + no;
+            return;
+        }
+
+        fun(root.left, no);
+        fun(root.right, no);
     }
-    no = no * 10 + root.val;
-    if(root.left == null && root.right == null) {
-        return no;
-    }
-    return fun(root.left, no) + fun(root.right, no);
-}
 }
