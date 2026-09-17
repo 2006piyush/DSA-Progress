@@ -47,6 +47,7 @@
 | [0904-fruit-into-baskets](https://github.com/2006piyush/DSA-Progress/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/2006piyush/DSA-Progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/2006piyush/DSA-Progress/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/2006piyush/DSA-Progress/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/2006piyush/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/2006piyush/DSA-Progress/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/2006piyush/DSA-Progress/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -286,6 +287,7 @@
 | [0074-search-a-2d-matrix](https://github.com/2006piyush/DSA-Progress/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/2006piyush/DSA-Progress/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2006piyush/DSA-Progress/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/2006piyush/DSA-Progress/tree/master/0994-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -398,6 +400,7 @@
 | [0226-invert-binary-tree](https://github.com/2006piyush/DSA-Progress/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2006piyush/DSA-Progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/2006piyush/DSA-Progress/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/2006piyush/DSA-Progress/tree/master/0994-rotting-oranges) |
 ## Binary Lifting
 |  |
 | ------- |
