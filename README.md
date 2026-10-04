@@ -42,6 +42,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/2006piyush/DSA-Progress/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/2006piyush/DSA-Progress/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/2006piyush/DSA-Progress/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/2006piyush/DSA-Progress/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/2006piyush/DSA-Progress/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/2006piyush/DSA-Progress/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/2006piyush/DSA-Progress/tree/master/0904-fruit-into-baskets) |
@@ -123,6 +124,7 @@
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/2006piyush/DSA-Progress/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/2006piyush/DSA-Progress/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/2006piyush/DSA-Progress/tree/master/0713-subarray-product-less-than-k) |
+| [0778-swim-in-rising-water](https://github.com/2006piyush/DSA-Progress/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/2006piyush/DSA-Progress/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/2006piyush/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/2006piyush/DSA-Progress/tree/master/1631-path-with-minimum-effort) |
@@ -289,6 +291,7 @@
 | [0074-search-a-2d-matrix](https://github.com/2006piyush/DSA-Progress/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/2006piyush/DSA-Progress/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2006piyush/DSA-Progress/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0778-swim-in-rising-water](https://github.com/2006piyush/DSA-Progress/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/2006piyush/DSA-Progress/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/2006piyush/DSA-Progress/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
@@ -302,6 +305,7 @@
 | [0692-top-k-frequent-words](https://github.com/2006piyush/DSA-Progress/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/2006piyush/DSA-Progress/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/2006piyush/DSA-Progress/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/2006piyush/DSA-Progress/tree/master/0778-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/2006piyush/DSA-Progress/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/2006piyush/DSA-Progress/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
@@ -372,6 +376,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/2006piyush/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2006piyush/DSA-Progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/2006piyush/DSA-Progress/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/2006piyush/DSA-Progress/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/2006piyush/DSA-Progress/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/2006piyush/DSA-Progress/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -408,6 +413,7 @@
 | [0226-invert-binary-tree](https://github.com/2006piyush/DSA-Progress/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2006piyush/DSA-Progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/2006piyush/DSA-Progress/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/2006piyush/DSA-Progress/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/2006piyush/DSA-Progress/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/2006piyush/DSA-Progress/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/2006piyush/DSA-Progress/tree/master/0994-rotting-oranges) |
@@ -438,6 +444,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/2006piyush/DSA-Progress/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/2006piyush/DSA-Progress/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/2006piyush/DSA-Progress/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/2006piyush/DSA-Progress/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -461,5 +468,10 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/2006piyush/DSA-Progress/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/2006piyush/DSA-Progress/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/2006piyush/DSA-Progress/tree/master/1631-path-with-minimum-effort) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/2006piyush/DSA-Progress/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
